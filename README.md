@@ -6,6 +6,30 @@ If you work on more than one feature at a time, you are guaranteed to multiply y
 
 ## Making a plan
 
+## Denver and Brenden plan
+
+1. create a roster of people in data.js
+acp
+2. in index.html, create a select dropdown menu with options
+acp
+3. in index.html, create classes and ids  
+acp
+4. create div display 
+acp
+5. import people from data.js, test
+acp
+6. in app.js, create element variables from html with query selector
+acp, test
+
+7. create an event listener
+
+8. create renderPerson function 
+
+9. create if else statement that 
+
+ 
+
+
 1. **Make a drawing of your app. Simple "wireframes"**
 1. **Once you have a drawing, name the HTML elements you'll need to realize your vision**
 1. **For each HTML element ask: Why do I need this?**
