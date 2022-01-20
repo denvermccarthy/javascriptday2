@@ -92,6 +92,7 @@ footer {
     border: 3px solid black;
     background-color: blue;
     color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
 
@@ -99,7 +100,7 @@ footer {
     border: 3px dotted coral;
     background-color: white;
     color: black;
-    font-family: monospace;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 
 .Denver:hover {
