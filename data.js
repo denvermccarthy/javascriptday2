@@ -13,5 +13,6 @@ export const people = [
         location: 'lives in oregon',
         favoriteAnimal: 'cat',
         hobbies: ['camping', 'baking']
+        //changes
     }
 ];
