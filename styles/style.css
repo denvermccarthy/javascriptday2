@@ -86,3 +86,22 @@ footer {
     background-color: var(--color3);
     box-shadow: var(--shadow);
 }
+
+
+.Brenden {
+    border: 3px solid black;
+    background-color: blue;
+    color: white;
+
+}
+
+.Denver {
+    border: 3px dotted coral;
+    background-color: white;
+    color: black;
+    font-family: monospace;
+}
+
+.Denver:hover {
+    background-color: red;
+}
