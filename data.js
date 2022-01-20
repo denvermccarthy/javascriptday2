@@ -1,14 +1,17 @@
 export const people = [
-    { id: 1,
+    {
         name: 'Brenden',
+        pronouns: 'he/him',
         age: 29,
-        bio: 'lives in washington',
+        location: 'lives in washington',
+        favoriteAnimal: 'dog',
         hobbies: ['bad movies', 'guitar']
     }, {
-        id: 2,
         name: 'Denver',
+        pronouns: 'he/him',
         age: 18,
-        bio: 'lives in oregon',
+        location: 'lives in oregon',
+        favoriteAnimal: 'cat',
         hobbies: ['camping', 'baking']
     }
 ];
