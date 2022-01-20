@@ -44,15 +44,15 @@ selectEl.addEventListener('change', (e) => {
         renderPerson(0);
         container.classList.add('Brenden');
         // AUDIO DID WORK, IT JUST WAS ANNOYING
-        let audio = new Audio('assets/dog.mp3');
+        //let audio = new Audio('assets/dog.mp3');
         // // audio.src = 'assets/dog.mp3';
-        audio.play();
+        //audio.play();
         console.log('selected= ' + selected);
     } else {
         renderPerson(1);
         container.classList.add('Denver');
-        let audio = new Audio('assets/cat.mp3');
-        audio.play();
+       // let audio = new Audio('assets/cat.mp3');
+        //audio.play();
         console.log('selected= ' + selected);
     }
 });
